@@ -1,4 +1,4 @@
-# PART A - Email Extension Request)
+# PART A - Email for Assignment Extension Request
 
 Subject: Request for a Short Extension:
 
@@ -19,8 +19,8 @@ Thank you for your time and understanding.
 
 Sincerely,
 Harshit Shrimali
-Btech CSE Core 
-REG NO:25BCE10714
+Btech Computer Science Engineering 
+REG NO: 25BCE10714
 
 # PART A -Email 2 (Internship Request)
 
@@ -32,7 +32,7 @@ Hope you are doing well.
 
 This is Harshit Shrimali from VIT Bhopal University pursuing a course in Computer Science Engineering in my first year of college. I am interested in a summer internship in your engineering team.
 
-During my academic sessions, I have been learning various concepts in Python, data structures, and basic cloud computing concepts. I have been following your recent activities in the field of [specific project/product/industry area of interest]. It would be great learning and a great opportunity to contribute in the summer.
+During my academic sessions, I have been learning various concepts in Python, data structures, and basic cloud computing concepts. I have been following your recent activities in the field of Software Development and Cloud Automation. It would be great learning and a great opportunity to contribute in the summer.
 
 Please let me know if there is any scope available in your team for junior interns.
 
@@ -41,7 +41,7 @@ Looking forward to hearing from you.
 Best regards,
 
 Harshit Shrimali
-Btech CSE Core
+Btech Computer Science Engineering
 
 # PART B - (Social media do's and don'ts)
 
